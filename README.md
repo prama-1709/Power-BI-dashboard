@@ -2,6 +2,7 @@
 Interactive Dashboard Projects
 * Global Superstore *
 #  Global Superstore Sales Dashboard
+https://github.com/prama-1709/Power-BI-dashboard/blob/main/Global%20Superstore.jpeg
 
 ##  Project Overview
 
